@@ -2,7 +2,7 @@
 
 Desktop GUI aplikacija koja procjenjuje isplativost ulaganja u baterijski sustav za poduzeće, na temelju stvarne godišnje potrošnje električne energije dotičnog poduzeća. Aplikacija simulira optimalan rad baterije (punjenje/pražnjenje) kroz svaki sat u godini te izračunava ostvarenu novčanu uštedu u odnosu na rad bez baterije.
 
-Grafički prikaz rada aplikacije (image.png)
+Grafički prikaz rada aplikacije [image.png](image.png)
 
 ## Kako radi
 
