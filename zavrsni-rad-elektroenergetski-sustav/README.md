@@ -43,7 +43,7 @@ Potreban je vlastiti ENTSO-E API ključ (https://github.com/EnergieID/entsoe-py)
 
 ## Struktura projekta
 
-- [ml_model_imbalance](ml_model_imbalance) -> ACF/PACF, VIF, regresija, baseline modeli, evaluacija, grafički prikaz
+- [ml_model_imbalance.py](ml_model_imbalance.py) -> ACF/PACF, VIF, regresija, baseline modeli, evaluacija, grafički prikaz
 - [entsoe_noviji.py](entsoe_noviji.py) -> dohvat podataka s ENTSO-E API-ja
 
 
