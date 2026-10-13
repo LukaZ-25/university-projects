@@ -45,8 +45,8 @@ godinu, u drugom stupcu, počevši od drugog retka (prvi red zaglavlje).
 ## Struktura projekta
 
 
-- main.py -> PyQt5 sučelje i glavna logika aplikacije
-- calculations_highs.py -> Pyomo model i optimizacija (HiGHS)
+- [main.py]main.py -> PyQt5 sučelje i glavna logika aplikacije
+- [calculations_highs.py]calculations_highs.py -> Pyomo model i optimizacija (HiGHS)
 
 
 ## Napomene
