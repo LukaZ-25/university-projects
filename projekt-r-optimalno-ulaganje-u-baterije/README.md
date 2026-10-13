@@ -23,7 +23,7 @@ Grafički prikaz rada aplikacije [image.png](image.png)
 ## Matematički model
 
 Model minimizira zbroj:
-- troška energije po satu (satna tarifa × potrošnja, uz korekciju za 
+- troška energije po satu (umnožak satne tarife i potrošnje, uz korekciju za 
   punjenje/pražnjenje baterije i njihove gubitke pri konverziji),
 - troška vršnog mjesečnog opterećenja,
 
@@ -31,8 +31,7 @@ uz ograničenja na:
 - stanje napunjenosti baterije (State of Charge) unutar dopuštenih 
   granica (15%–95% kapaciteta),
 - maksimalnu snagu punjenja/pražnjenja ograničenu veličinom baterije,
-- kontinuitet stanja napunjenosti između uzastopnih sati (i omota 
-  mjeseca, cikličko ograničenje).
+- kontinuitet stanja napunjenosti između uzastopnih sati.
 
 **Potrebne biblioteke:** PyQt5, pandas, matplotlib, pyomo
 
